@@ -1,10 +1,10 @@
 {
-    "name": "jenssegers/mongodb",
+    "name": "sirakoff/mongodb",
     "description": "A MongoDB based Eloquent model and Query builder for Laravel 4",
     "keywords": ["laravel","eloquent","mongodb","mongo","database","model"],
     "authors": [
         {
-            "name": "Jens Segers",
+            "name": "Daniel Sirakov",
             "homepage": "http://jenssegers.be"
         }
     ],
